@@ -4,6 +4,7 @@
 
 - Add support for Exchange Server 2019
 - Added additional parameters to the MSFT_xExchUMService resource
+- Added additional parameters to the MSFT_xExchUMCallRouterSettings resource
 
 ## 1.25.0.0
 
